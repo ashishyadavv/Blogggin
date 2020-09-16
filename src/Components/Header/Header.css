@@ -1,0 +1,17 @@
+.header{
+    font-size: 80px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -10px;
+    color: grey;
+}
+.div{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
